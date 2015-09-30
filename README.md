@@ -14,5 +14,5 @@ Demo app showing how to integrate React Native into RubyMotion. This is a simple
 
 ## Run
 1. Run React Native server from the base directory (run this in a separate terminal tab): `npm start`
-2. cd into motion_ios and Build your app: `rake` or `rake device`
+2. cd into motion_ios and build your app: `rake` or `rake device`
 
