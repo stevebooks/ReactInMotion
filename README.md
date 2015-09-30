@@ -1,5 +1,5 @@
 # ReactInMotion
-Demo app showing how to integrate React Native into RubyMotion. This is a simple proof of concept repository. It also contains an xCode version and an Android version of the same project so you can compare implementation details.
+Demo app showing how to integrate React Native into RubyMotion. This is a simple proof of concept repository. It also contains an xCode version and an Android version of the same project so you can compare implementation differences.
 
 ## Install
 1. Install RubyMotion
